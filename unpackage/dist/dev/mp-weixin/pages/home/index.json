@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "水果商城",
+  "usingComponents": {
+    "home-choiceness": "/pages/home/home-choiceness/index",
+    "home-new": "/pages/home/home-new/index",
+    "home-gift": "/pages/home/home-gift/index",
+    "uni-swiper-dot": "/node-modules/@dcloudio/uni-ui/lib/uni-swiper-dot/uni-swiper-dot",
+    "uni-grid": "/node-modules/@dcloudio/uni-ui/lib/uni-grid/uni-grid",
+    "uni-grid-item": "/node-modules/@dcloudio/uni-ui/lib/uni-grid-item/uni-grid-item"
+  }
+}

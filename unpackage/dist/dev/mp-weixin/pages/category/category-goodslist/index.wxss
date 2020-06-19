@@ -1,0 +1,8 @@
+
+.label-text{
+	text-align: center;
+	font-size:unset;
+	color: #919191;
+	font-size: 30rpx;
+}
+

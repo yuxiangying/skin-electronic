@@ -1,0 +1,23 @@
+
+.center-bar{
+	width: 100%;
+	height: 25rpx;
+}
+.goods-category{
+	/* background-color: #ff55ff; */
+	width: 100%;
+}
+/* .content{
+	color: #ff0000;
+	
+	width: 100%;
+	height: 100%;
+} */
+/* page {
+background-color: #ffff7f;
+width: 100%;
+height: 100vh!important;
+
+} */
+ 
+

@@ -1,0 +1,80 @@
+
+.swiper-box{
+	height: 400rpx;
+}
+.categoryText{
+	color: #844619; 
+	text-align: center;
+	font-size:unset;
+}
+.center-bar{
+	width: 100%;
+	height: 25rpx;
+	background-color:#f2f2f2;
+}
+.fruitName{
+	font-size: medium;
+}
+.fruitPrice{
+	color: #ff7e00;
+}
+.flashSale{
+	width: 100%;
+	height: 340rpx;
+}
+.title-bar{
+	width: 100%;
+	height: 80rpx;
+}
+.div-bar{
+	height: 80%;
+	padding: 15rpx;
+}
+.title-bar-text{
+	font-size: 37rpx;
+	color: #ff7e00;
+}
+.fruitMessage1{
+	font-size: 45rpx;
+	margin-top: 60rpx;
+}
+.fruitMessage2{
+	font-size: 30rpx;
+	margin-top: 10rpx;
+	color: #919191;
+}
+.home-purchase-click{
+	font-size: 40rpx;
+	background-color:#ff7e00;
+	color: #ffffff;
+	width:200rpx;
+	margin: auto;
+}
+.jxsp-image{
+	width: 370rpx;height: 370rpx;
+}
+.jxsp-name{
+	text-align: center;
+	font-size:unset;
+	color: #844619;
+	font-size: 33rpx;
+}
+.jxsp-price{
+	text-align: center;
+	font-size:unset;
+	color: #ff7e00;
+	font-size: 33rpx;
+}
+.jxsp-xl{
+	text-align: center;
+	font-size:unset;
+	color: #919191;
+	font-size: 33rpx;
+}
+.label-text{
+	text-align: center;
+	font-size:unset;
+	color: #919191;
+	font-size: 30rpx;
+}
+
